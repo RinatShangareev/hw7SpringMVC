@@ -1,0 +1,11 @@
+/home/rinat/JavaProjects/Kurs_sobesedovanie/HW7/SpringMVC1/SpringMVC/src/main/java/ru/shangareevrr/common/service/RoleService.java
+/home/rinat/JavaProjects/Kurs_sobesedovanie/HW7/SpringMVC1/SpringMVC/src/main/java/ru/shangareevrr/common/service/UserService.java
+/home/rinat/JavaProjects/Kurs_sobesedovanie/HW7/SpringMVC1/SpringMVC/src/main/java/ru/shangareevrr/common/controller/LoginController.java
+/home/rinat/JavaProjects/Kurs_sobesedovanie/HW7/SpringMVC1/SpringMVC/src/main/java/ru/shangareevrr/common/service/UserDetailsServiceImpl.java
+/home/rinat/JavaProjects/Kurs_sobesedovanie/HW7/SpringMVC1/SpringMVC/src/main/java/ru/shangareevrr/common/repository/UserRepository.java
+/home/rinat/JavaProjects/Kurs_sobesedovanie/HW7/SpringMVC1/SpringMVC/src/main/java/ru/shangareevrr/common/entity/User.java
+/home/rinat/JavaProjects/Kurs_sobesedovanie/HW7/SpringMVC1/SpringMVC/src/main/java/ru/shangareevrr/common/service/SecurityServiceImpl.java
+/home/rinat/JavaProjects/Kurs_sobesedovanie/HW7/SpringMVC1/SpringMVC/src/main/java/ru/shangareevrr/common/entity/Role.java
+/home/rinat/JavaProjects/Kurs_sobesedovanie/HW7/SpringMVC1/SpringMVC/src/main/java/ru/shangareevrr/common/validator/UserValidator.java
+/home/rinat/JavaProjects/Kurs_sobesedovanie/HW7/SpringMVC1/SpringMVC/src/main/java/ru/shangareevrr/common/service/SecurityService.java
+/home/rinat/JavaProjects/Kurs_sobesedovanie/HW7/SpringMVC1/SpringMVC/src/main/java/ru/shangareevrr/common/repository/RoleRepository.java

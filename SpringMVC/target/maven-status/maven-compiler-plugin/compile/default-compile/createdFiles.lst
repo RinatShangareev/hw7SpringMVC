@@ -1,0 +1,11 @@
+ru/shangareevrr/common/validator/UserValidator.class
+ru/shangareevrr/common/service/UserService.class
+ru/shangareevrr/common/entity/User.class
+ru/shangareevrr/common/service/SecurityService.class
+ru/shangareevrr/common/controller/LoginController.class
+ru/shangareevrr/common/repository/RoleRepository.class
+ru/shangareevrr/common/service/UserDetailsServiceImpl.class
+ru/shangareevrr/common/repository/UserRepository.class
+ru/shangareevrr/common/service/RoleService.class
+ru/shangareevrr/common/entity/Role.class
+ru/shangareevrr/common/service/SecurityServiceImpl.class
