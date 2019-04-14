@@ -8,7 +8,7 @@
 <body>
 <container>
 	<h1>Message : ${message}</h1>
-	<form:form method="POST" action="/login" modelAttribute="user">
+	<form:form method="POST" action="/authUser" modelAttribute="user">
 
 		User Name : <input type="text" id="userName" name="userName" class="form-control"/><br/>
 
